@@ -43,6 +43,7 @@ Follow these steps to get the project ready:
 
 2. Install Node.js dependencies
     Make sure you have Node.js installed.
+    ```bash
     run:
     npm install
 
