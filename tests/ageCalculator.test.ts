@@ -1,4 +1,3 @@
-//import { ageCalculator } from "../ageCalculator";
 import { ageCalculator, messageToUser, validateFormat } from '../ageCalculator';
 
 describe('Age Calculator', () => {
